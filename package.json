@@ -1,0 +1,24 @@
+{
+  "name": "action-nodejs-updater",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "actions-toolkit": "^0.0.4",
+    "node-release-lines": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lint": "standard"
+  },
+  "keywords": [
+    "github",
+    "actions",
+    "action",
+    "nodejs",
+    "security",
+    "autoupdate"
+  ],
+  "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im)",
+  "license": "MIT"
+}
